@@ -257,6 +257,7 @@ export function MegaMenu() {
         { href: '/ressources-humaines/paie', icon: '💰', label: 'Paie' },
         { href: '/ressources-humaines/performance', icon: '📊', label: 'Performance' },
         { href: '/ressources-humaines/culture', icon: '🌟', label: 'Culture' },
+        { href: '/ressources-humaines/carriere', icon: '🚀', label: 'Carrière' }, // 🔥 Pointage vers la bonne route
       ],
     },
     {
